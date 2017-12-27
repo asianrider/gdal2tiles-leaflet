@@ -646,7 +646,7 @@ class GDAL2Tiles(object):
 
         # Tile format
 
-        self.tilesize = 256
+        self.tilesize = 512
         self.tiledriver = 'PNG'
         self.tileext = 'png'
 
